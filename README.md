@@ -1,0 +1,2 @@
+# RAG-Retrieval-Augmented-Generation-Powered-AI-Travel-Assistant
+Engineered a full-stack RAG chatbot combining Sentence-BERT retrieval with Qwen2.5-1.5 B-Instruct LLM to deliver real-time, role-personalized answers on 100K+ global landmarks; implemented advanced prompt engineering, semantic ranking, and a Gradio UX, achieving >90% query relevance in evaluation and minimizing irrelevant fabricated responses.
